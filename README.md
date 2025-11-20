@@ -24,7 +24,7 @@ pkg install python3
 ```
 git clone https://github.com/TheyanzXD/Ghost-Track
 cd Ghost-Track
-python3 GhostTR.py
+python3 GTrack.py
 ```
 
 Display on the menu ```IP Tracker```
